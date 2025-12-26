@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ウジ虫",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-26T17:49:54.020965Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ujimushi (ウジ虫)",
+      "artist": "Golden Bomber (ールデンボンバー)",
+      "has_synced": false,
+      "path": "select/01_Ujimushi_(ウジ虫)_Golden_Bomber_(ールデンボンバー).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウジ虫",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_ウジ虫_ゴールデンボンバー.txt"
+    }
+  ]
+}
